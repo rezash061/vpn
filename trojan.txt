@@ -1,0 +1,1 @@
+trojan://fccc56a0-8213-11ed-840a-1239d0255272@195.154.118.180:443?security=tls&headerType=none&type=tcp&sni=soft98.ir#fvhh
